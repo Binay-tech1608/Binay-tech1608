@@ -58,8 +58,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/binaymann"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="binaymann" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binaytech-1608&show_icons=true&locale=en&layout=compact" alt="binaytech-1608" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binaytech-1608&show_icons=true&locale=en" alt="binaytech-1608" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binaytech-1608&" alt="binaytech-1608" /></p>
