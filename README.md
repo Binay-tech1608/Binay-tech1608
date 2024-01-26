@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Binay Mann</h1>
 <h3 align="center">I am a Machine Learning Engineer from India. I have completed my Bachelor's degree in CSE from Indian Institute of Information Technology, kalyani. I am also interested in Web developement.</h3>
 
-[![MasterHead](https://media.licdn.com/dms/image/D4D12AQFXdus-lBdH6A/article-cover_image-shrink_720_1280/0/1691082698477?e=2147483647&v=beta&t=CGdWDwRE_xOKVrsfiJql378Eg-hD8fb65i4w2kkAW9I)]
+[![MasterHead](https://wallpapers.com/images/featured/krishna-arjun-1m4m6as28186y5q9.jpg)]
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e471p56uj2hl0kcslvgwr5r4su936h6ezobsfzsfy20&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
