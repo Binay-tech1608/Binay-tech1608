@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Binay Mann</h1>
-<h3 align="center">I am a Passionate AI/ML developer from India.</h3>
+<h2 align="center">A Passionate AI/ML developer from India.</h2>
+<h3 align="center">I am a final year student in CSE Branch at IIIT Kalyani.</h3>
 
 [![MasterHead](https://wallpapers.com/images/featured/krishna-arjun-1m4m6as28186y5q9.jpg)]
 
