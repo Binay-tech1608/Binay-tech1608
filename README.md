@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Binay Mann</h1>
-<h3 align="center">I am a Machine Learning Engineer from India. I have completed my Bachelor's degree in CSE from Indian Institute of Information Technology, kalyani. I am also interested in Web developement.</h3>
+<h3 align="center">I am a Passionate AI/ML developer from India.</h3>
 
 [![MasterHead](https://wallpapers.com/images/featured/krishna-arjun-1m4m6as28186y5q9.jpg)]
 
