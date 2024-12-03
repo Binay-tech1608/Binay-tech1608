@@ -2,7 +2,6 @@
 <h2 align="center">A Passionate AI/ML developer from India.</h2>
 <h3 align="center">I am a final year student in CSE Branch at IIIT Kalyani.</h3>
 
-[![MasterHead](https://wallpapers.com/images/featured/krishna-arjun-1m4m6as28186y5q9.jpg)]
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e471p56uj2hl0kcslvgwr5r4su936h6ezobsfzsfy20&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
